@@ -1,0 +1,30 @@
+{
+  "name": "u_s7_programacion_clon-pagina-web",
+  "version": "1.0.0",
+  "description": "Página clon del Pollo Loco, enlace: \r https://www.elpolloloco.com.mx/",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angel-Diaz-H/U_S7_Programacion_Clon-Pagina-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Angel-Diaz-H/U_S7_Programacion_Clon-Pagina-web/issues"
+  },
+  "homepage": "https://github.com/Angel-Diaz-H/U_S7_Programacion_Clon-Pagina-web#readme",
+  "devDependencies": {
+    "sass": "^1.91.0",
+    "vite": "^7.1.3"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.7"
+  }
+}

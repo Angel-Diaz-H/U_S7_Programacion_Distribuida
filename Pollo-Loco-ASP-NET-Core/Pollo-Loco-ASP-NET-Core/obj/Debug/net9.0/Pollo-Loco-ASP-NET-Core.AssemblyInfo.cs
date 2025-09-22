@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pollo-Loco-ASP-NET-Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b034d30ac3de6c2485971f0236973f77bf3e5dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f551fe87738b1d942aa917b751718920e1f61aac")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pollo-Loco-ASP-NET-Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pollo-Loco-ASP-NET-Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

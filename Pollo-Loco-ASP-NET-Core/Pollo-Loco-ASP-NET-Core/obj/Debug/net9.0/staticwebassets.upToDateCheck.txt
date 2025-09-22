@@ -73,7 +73,8 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-C:\Users\angel\Local\Proyectos\U_S7_Programacion_Distribuida\Pollo-Loco-ASP-NET-Core\Pollo-Loco-ASP-NET-Core\wwwroot\favicon.ico
+C:\Users\angel\Local\Proyectos\U_S7_Programacion_Distribuida\Pollo-Loco-ASP-NET-Core\Pollo-Loco-ASP-NET-Core\wwwroot\css\site.css
+C:\Users\angel\Local\Proyectos\U_S7_Programacion_Distribuida\Pollo-Loco-ASP-NET-Core\Pollo-Loco-ASP-NET-Core\wwwroot\css\styles.css
 C:\Users\angel\Local\Proyectos\U_S7_Programacion_Distribuida\Pollo-Loco-ASP-NET-Core\Pollo-Loco-ASP-NET-Core\wwwroot\js\site.js
 C:\Users\angel\Local\Proyectos\U_S7_Programacion_Distribuida\Pollo-Loco-ASP-NET-Core\Pollo-Loco-ASP-NET-Core\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\angel\Local\Proyectos\U_S7_Programacion_Distribuida\Pollo-Loco-ASP-NET-Core\Pollo-Loco-ASP-NET-Core\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -134,5 +135,4 @@ C:\Users\angel\Local\Proyectos\U_S7_Programacion_Distribuida\Pollo-Loco-ASP-NET-
 C:\Users\angel\Local\Proyectos\U_S7_Programacion_Distribuida\Pollo-Loco-ASP-NET-Core\Pollo-Loco-ASP-NET-Core\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\angel\Local\Proyectos\U_S7_Programacion_Distribuida\Pollo-Loco-ASP-NET-Core\Pollo-Loco-ASP-NET-Core\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\angel\Local\Proyectos\U_S7_Programacion_Distribuida\Pollo-Loco-ASP-NET-Core\Pollo-Loco-ASP-NET-Core\wwwroot\lib\jquery\LICENSE.txt
-C:\Users\angel\Local\Proyectos\U_S7_Programacion_Distribuida\Pollo-Loco-ASP-NET-Core\Pollo-Loco-ASP-NET-Core\wwwroot\css\styles.css
-C:\Users\angel\Local\Proyectos\U_S7_Programacion_Distribuida\Pollo-Loco-ASP-NET-Core\Pollo-Loco-ASP-NET-Core\wwwroot\css\site.css
+C:\Users\angel\Local\Proyectos\U_S7_Programacion_Distribuida\Pollo-Loco-ASP-NET-Core\Pollo-Loco-ASP-NET-Core\wwwroot\favicon.ico

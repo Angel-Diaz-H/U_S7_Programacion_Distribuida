@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pollo-Loco-ASP-NET-Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f4cdca366fee59e22dc4ae2c9cafead17880844")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+746ca6a510053c7695d3aeaae65afb9503b3e98d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pollo-Loco-ASP-NET-Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pollo-Loco-ASP-NET-Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

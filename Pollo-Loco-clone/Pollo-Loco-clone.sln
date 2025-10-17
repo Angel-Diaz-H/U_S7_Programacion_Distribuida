@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36511.14 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pollo-Loco-clone", "Pollo-Loco-clone\Pollo-Loco-clone.csproj", "{4854D5CD-3913-405C-B488-90A79A290CDB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pollo-loco-clone", "Pollo-loco-clone.csproj", "{096D301D-C669-4D14-8178-CF5D2CB8F391}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4854D5CD-3913-405C-B488-90A79A290CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4854D5CD-3913-405C-B488-90A79A290CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4854D5CD-3913-405C-B488-90A79A290CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4854D5CD-3913-405C-B488-90A79A290CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{096D301D-C669-4D14-8178-CF5D2CB8F391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096D301D-C669-4D14-8178-CF5D2CB8F391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096D301D-C669-4D14-8178-CF5D2CB8F391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096D301D-C669-4D14-8178-CF5D2CB8F391}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2C9DF73E-04A8-4DF1-A8B9-7308F086FECA}
+		SolutionGuid = {B40CF775-5D19-4BAB-A80B-FBF09378CA29}
 	EndGlobalSection
 EndGlobal
